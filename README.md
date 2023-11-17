@@ -3,16 +3,27 @@
 ### Table of Contents:
 
 **1.** Introduction
+
 **2.** Data
+
 **3.** Understanding the variables
-**4.** Data Cleaning and Preprocessing:
+
+**4.** Data Cleaning and Preprocessing
+
 **5.** Identify potential personally identifiable information (PII)
+
 **6.** Perform Bag of Words, TF-IDF, and Word Embeddings
+
 **7.** Use a Confusion Matrix to Evaluate Model Performance
+
 **8.** Choose the best Model
+
 **9.** Most influential dimensions in the decision-making of the model
+
 **10.** Exploratory Data Analysis (EDA)
+
 **11.** Hyperparameter Tuning with Word Embeddings
+
 **12.** Conclusions
 
 ## 1. Introduction
